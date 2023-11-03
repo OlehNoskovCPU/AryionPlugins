@@ -8,8 +8,8 @@ When Tampermonkey is already installed on your browser, then  [just click this l
 
 Hotkeys:
 + LeftArrow/RighArrow - Previous/Next picture.
-+ CTRL+RightShift - Download image.
-+ CTRL+LeftShift - Add to favourites.
++ Shift+D - Download image.
++ Shift+F - Add to favourites.
 
 Also, a field for entering numbers and a Download button will appear next to the buttons. There you enter how many images you want to download, and then click the button.
 
@@ -22,7 +22,7 @@ Also, a field for entering numbers and a Download button will appear next to the
 
 Горячие клавиши:
 + LeftArrow/RighArrow - Предыдущее/Следующее изображение.
-+ CTRL+RightShift - Загрузить изображение.
-+ CTRL+LeftShift - Добавить в избранное.
++ Shift+D - Загрузить изображение.
++ Shift+F - Добавить в избранное.
 
 Также рядом с кнопками появиться поле для ввода чисел и кнопка Download. Туда вводится, сколько изображений вы хотите скачать, а после нажимаете кнопку.
