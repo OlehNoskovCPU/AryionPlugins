@@ -12,7 +12,7 @@ Hotkeys:
 + Shift+F - Add to favourites.
   
 > [!WARNING]
-> When downloading via Shift+D, the picture will load in the background, so it may take a long time to load. Depending on your internet speed, wait from 15 seconds to a minute.
+> When downloading via Shift+D, the picture will load in the background, so it may take a long time to load. Depending on your internet speed and the weight of the file, wait from 15 seconds to a minute.
 
 Also, a field for entering numbers and a Download button will appear next to the buttons. There you enter how many images you want to download, and then click the button.
 
@@ -29,6 +29,6 @@ Also, a field for entering numbers and a Download button will appear next to the
 + Shift+F - Добавить в избранное.
 
 > [!WARNING]
-> При скачивание через Shift+D картинка будет грузится в фоновом режиме, поэтому она возможно будет долго грузиться. В зависимости от вашего скорости интернета подождите от 15 секунд до минуты.
+> При скачивание через Shift+D картинка будет грузится в фоновом режиме, поэтому она возможно будет долго грузиться. В зависимости от вашего скорости интернета и веса файла подождите от 15 секунд до минуты.
 
 Также рядом с кнопками появиться поле для ввода чисел и кнопка Download. Туда вводится, сколько изображений вы хотите скачать, а после нажимаете кнопку.
