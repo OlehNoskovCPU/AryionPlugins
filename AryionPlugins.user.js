@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AryionPlugins
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  A simple script for easy viewing of artwork and comics.
 // @license      MIT
 // @author       OlehNoskov
@@ -19,7 +19,7 @@ const DownloadComicPage = async () => {
     const image = await (await fetch(downloadLink)).blob();
     const link = document.createElement('a');
     link.href = window.URL.createObjectURL(image);
-    const title = (document.getElementsByClassName('g-box-title')[1]).innerText;
+    const title = (document.getElementsByClassName('user-link')[1]).innerText+" - "+(document.getElementsByClassName('g-box-title')[1]).innerText;
     link.download = title;
 
     document.body.appendChild(link);
@@ -82,10 +82,10 @@ document.addEventListener('keydown', function(event) {
           }
       }
   }
-  else if (event.shiftKey && event.key == "D"){
+  else if (event.shiftKey && (event.key == "D" || event.key == "В")){
       void DownloadComicPage();
   }
-  else if (event.shiftKey && event.key == "F") {
+  else if (event.shiftKey && (event.key == "F" || event.key == "А")) {
      button = document.getElementById("fav-link")
   }
   if(button){
