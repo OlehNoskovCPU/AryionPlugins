@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         AryionPlugins
 // @namespace    http://tampermonkey.net/
-// @version      1.0.4
+// @version      1.0.5
 // @description  A simple script for easy viewing of artwork and comics.
 // @license      MIT
 // @author       OlehNoskov
 // @homepage     https://github.com/OlehNoskovCPU/AryionPlugins
+// @updateURL    https://github.com/OlehNoskovCPU/AryionPlugins/raw/main/AryionPlugins.user.js
+// @downloadURL  https://github.com/OlehNoskovCPU/AryionPlugins/raw/main/AryionPlugins.user.js
 // @match        https://aryion.com/g4/view/*
 // @include      https://aryion.com/g4/view/*
 // ==/UserScript==
