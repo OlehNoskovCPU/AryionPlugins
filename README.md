@@ -17,6 +17,8 @@ Hotkeys:
 
 Also, a field for entering numbers and a Download button will appear next to the buttons. There you enter how many images you want to download, and then click the button.
 
+![AltText](./DownloadPages.png)
+
 ## RU:
 Этот скрипт написан специально для пользователей сайта aryion.com, чтобы упростить им жизнь.
 
@@ -34,3 +36,5 @@ Also, a field for entering numbers and a Download button will appear next to the
 > - Функция скачивания рассчитано ТОЛЬКО на Видео файлы, картинки и PDF файлы. 
 
 Также рядом с кнопками появиться поле для ввода чисел и кнопка Download. Туда вводится, сколько изображений вы хотите скачать, а после нажимаете кнопку.
+
+![АльтТекст](./DownloadPages.png)
